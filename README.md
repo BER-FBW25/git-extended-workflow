@@ -34,4 +34,6 @@
 15. Öffne index.html mit Chrome
 16. index.html scheint wohl kaputt zu sein. Reparier die Pfade in den ```<img>``` tags. 
 17. Committe. 
+
+
 **bonus** Erstelle auf Github dein erstes Repository und mach einen push.
